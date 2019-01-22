@@ -10,7 +10,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Iba yo de peregrino y me cogiste de la mano");
+            Console.WriteLine("hola y adios");
         }
     }
 }
